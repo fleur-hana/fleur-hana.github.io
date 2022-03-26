@@ -1,10 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to fleur-hana's page !
 
-You can use the [editor on GitHub](https://github.com/fleur-hana/fleur-hana.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+N予備でプログラミング入門コース１年目を終了した初心者です。　　
+エンジニア目指して勉強中です。　　
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Profile
+-　 Name:fleur-hana
+-　 Hobbies:Cooking,　Programming, Traveling
+
+## Links to deliverables
+- [和の伝統色読めるかな？　](https://fleur-hana.github.io/webAppContest-summer-2021/contest.html)
+- [晩ごはん🍚食べる？](https://shrouded-badlands-04383.herokuapp.com/)
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
