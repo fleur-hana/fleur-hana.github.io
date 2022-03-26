@@ -1,12 +1,13 @@
 ## Welcome to fleur-hana's page !
 
 N予備でプログラミング入門コース１年目を終了した初心者です。　　
+
 エンジニア目指して勉強中です。　　
 
 
 ## Profile
--　 Name:fleur-hana
--　 Hobbies:Cooking,　Programming, Traveling
+- Name:fleur-hana
+- Hobbies:Cooking,　Programming, Traveling
 
 ## Links to deliverables
 - [和の伝統色読めるかな？　](https://fleur-hana.github.io/webAppContest-summer-2021/contest.html)
