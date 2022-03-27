@@ -40,7 +40,7 @@ N予備でプログラミング入門コース１年目を終了した初心者�
 ## Processinng作品
 <iframe src="https://openprocessing.org/sketch/1527575/embed/" width="400" height="400"></iframe>
 
-![hana](flower_2.png)
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
