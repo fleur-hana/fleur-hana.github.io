@@ -4,6 +4,8 @@ N予備でプログラミング入門コース１年目を終了した初心者�
 
 エンジニア目指して勉強中です。　　
 
+![hana](flower_2.png)
+
 ## Profile
 - Name: fleur-hana
 - Hobbies: 
